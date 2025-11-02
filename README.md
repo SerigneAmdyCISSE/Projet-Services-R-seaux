@@ -1,4 +1,4 @@
-# Projet : Installation et Configuration des Services Réseau
+# Projet : Installation et Configuration des Services Réseaux
 
 ## Description
 L’objectif de ce projet est d’installer et de configurer les services suivants sur des serveurs Windows 2016 :  
